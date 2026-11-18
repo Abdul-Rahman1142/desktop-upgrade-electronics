@@ -2,10 +2,10 @@
 <Properties>
   <View=0,0,1,1,1,0,0>
   <Grid=10,10,1>
-  <DataSet=led-rgb-driver.dat>
-  <DataDisplay=led-rgb-driver.dpl>
+  <DataSet=led-rgb-driver-level3-opamp.dat>
+  <DataDisplay=led-rgb-driver-level3-opamp.dpl>
   <OpenDisplay=0>
-  <Script=led-rgb-driver.m>
+  <Script=led-rgb-driver-level3-opamp.m>
   <RunScript=0>
   <showFrame=0>
   <FrameText0=Title>
